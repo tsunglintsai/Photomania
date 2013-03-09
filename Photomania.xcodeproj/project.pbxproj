@@ -89,6 +89,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		33AD3B2116EB9105000E2C9B /* CoreDataTableViewController */ = {
+			isa = PBXGroup;
+			children = (
+				ECBAD66D16D6F4D900CABE2F /* CoreDataTableViewController.h */,
+				ECBAD66E16D6F4D900CABE2F /* CoreDataTableViewController.m */,
+			);
+			path = CoreDataTableViewController;
+			sourceTree = "<group>";
+		};
 		ECBAD62A16D6F0F100CABE2F = {
 			isa = PBXGroup;
 			children = (
@@ -128,6 +137,7 @@
 				ECBAD68E16D6FF5E00CABE2F /* PhotosByPhotographerCDTVC.h */,
 				ECBAD68F16D6FF5E00CABE2F /* PhotosByPhotographerCDTVC.m */,
 				ECBAD69716D70D6A00CABE2F /* Core Data */,
+				33AD3B2116EB9105000E2C9B /* CoreDataTableViewController */,
 				ECBAD69616D70D5D00CABE2F /* ImageViewController */,
 				ECBAD69116D70CE400CABE2F /* FlickrFetcher */,
 				ECBAD63D16D6F0F100CABE2F /* Supporting Files */,
@@ -184,8 +194,6 @@
 				ECBAD68416D6F75200CABE2F /* Photographer+Create.m */,
 				ECBAD66216D6F3B100CABE2F /* Photographer.h */,
 				ECBAD66316D6F3B100CABE2F /* Photographer.m */,
-				ECBAD66D16D6F4D900CABE2F /* CoreDataTableViewController.h */,
-				ECBAD66E16D6F4D900CABE2F /* CoreDataTableViewController.m */,
 			);
 			name = "Core Data";
 			sourceTree = "<group>";
