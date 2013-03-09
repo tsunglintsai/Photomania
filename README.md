@@ -1,0 +1,1 @@
+Remember to fill Flickr API key
